@@ -1,6 +1,6 @@
 # **Cryptocurrency Tracker Web App**
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://66a38b1c4199c92133208736--aesthetic-mousse-2eec31.netlify.app/)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://aesthetic-mousse-2eec31.netlify.app/)
 
 This is a **React-based Cryptocurrency Tracking Website** that allows users to view real-time cryptocurrency data, including price, market cap, and historical trends. The application fetches data using the **CoinGecko API** and includes a user-friendly UI with search and filtering features.
 
@@ -62,7 +62,7 @@ Now open **http://localhost:5173** to use the app.
 
 ## 🌐 **Deployment**
 The frontend can be accessed live here:
-🔗 **[Live Demo](https://66a38b1c4199c92133208736--aesthetic-mousse-2eec31.netlify.app/)**
+🔗 **[Live Demo](https://aesthetic-mousse-2eec31.netlify.app/)**
 
 The project can be deployed using **Vercel**:
 1. Push your project to GitHub.
